@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Ring Puzzle Game",
+"productVersion": "0.1",
+"dataUrl": "Ring Puzzle v0.2 Web.data.unityweb",
+"wasmCodeUrl": "Ring Puzzle v0.2 Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ring Puzzle v0.2 Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
